@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BOOM",
+  "base_artist": "Rocket Punch",
+  "createdAt": "2025-12-23T14:22:35.454967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kids Of The Baby Boom",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/01_Kids_Of_The_Baby_Boom_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boom Bang Boom",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_Boom_Bang_Boom_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BOOM!",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/03_BOOM!_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boom",
+      "artist": "Dynamite Deluxe",
+      "has_synced": false,
+      "path": "select/04_Boom_Dynamite_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boom (RJD2 Blend)",
+      "artist": "Royce da 5′9″ feat. Sucka Free & Kid Vishis",
+      "has_synced": false,
+      "path": "select/05_Boom_(RJD2_Blend)_Royce_da_5′9′′_feat._Sucka_Free_&_Kid_Vishis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boom Rjd2 Blend - Royce Da 59",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/06_Boom_Rjd2_Blend_-_Royce_Da_59_RJD2.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fatty Boom Boom",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/07_Fatty_Boom_Boom_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boom Boom In The Zoom Zoom Room",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/08_Boom_Boom_In_The_Zoom_Zoom_Room_Blondie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Push It - Boom Boom Satellites Mix",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/09_Push_It_-_Boom_Boom_Satellites_Mix_Garbage.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Push It (Boom Boom Satellites Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/10_Push_It_(Boom_Boom_Satellites_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Push It (Boom Boom Satellites)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/11_Push_It_(Boom_Boom_Satellites)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Micronomic (Boom Bip Remix)",
+      "artist": "Lali Puna",
+      "has_synced": false,
+      "path": "select/12_Micronomic_(Boom_Bip_Remix)_Lali_Puna.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Boom Bashin'",
+      "artist": "Masta Ace",
+      "has_synced": false,
+      "path": "select/13_Boom_Bashin'_Masta_Ace.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Boom Skit",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/14_Boom_Skit_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Save Us From The Flames - Boom Bip Remix",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/15_Don't_Save_Us_From_The_Flames_-_Boom_Bip_Remix_M83.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Le Boom Boom",
+      "artist": "The Monochrome Set",
+      "has_synced": false,
+      "path": "select/16_Le_Boom_Boom_The_Monochrome_Set.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BOOM",
+      "artist": "Rocket Punch",
+      "has_synced": false,
+      "path": "select/pl_01_BOOM_Rocket_Punch.txt"
+    }
+  ]
+}
